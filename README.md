@@ -13,16 +13,14 @@ Furthermore, the fact that the project has been successfully hosted demonstrates
 "Note master" is not just a note-sharing platform; it is a feature-rich application designed to cater to the diverse needs of users, providing a secure, interactive, and efficient environment for note-sharing.
 
 
-![Dashboard](https://github.com/pavandoescode/NoteMaster/assets/109412992/ace143e8-7720-4ae5-8f75-34db7e3aabeb) 
-<img src="https://github.com/pavandoescode/NoteMaster/assets/109412992/005830ad-4c19-4a57-b5a5-3d5955a449cc" width="250" /> 
+![Dashboard](https://github.com/pavandoescode/Note-Master/assets/109412992/a092f489-b385-4453-87a6-ff659d7e90ba)
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/e8f6581a-f07b-4cce-8652-cfb8977ede3e" width="250" /> <br>
 
-<img src="https://github.com/pavandoescode/NoteMaster/assets/109412992/2b8d829d-9298-4754-af48-aa0aaabc56c5" width="500" /> <br>
-<img src="https://github.com/pavandoescode/NoteMaster/assets/109412992/ad8f352a-48aa-4a16-8fe7-4555d6333710" width="500" /> <br>
-<img src="https://github.com/pavandoescode/NoteMaster/assets/109412992/502533d5-072e-4c65-bad6-41a11a0cbf81" width="500" /> <br>
-<img src="https://github.com/pavandoescode/NoteMaster/assets/109412992/1cfd316a-628c-4685-8b0e-652a62d6bb72" width="500" /> <br>
-<img src="https://github.com/pavandoescode/NoteMaster/assets/109412992/86f1d79f-4b09-4515-b725-53072604a1db" width="500" /> <br>
-
-
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/14bd9bc4-679e-48e4-a791-8e5ccd19a2dc" width="500" /> <br>
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/cc03618b-cea3-4715-84f3-a751b6769418" width="500" /> <br>
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/bc362aa4-c6a5-44c2-bdee-fbb62405c1d5" width="500" /> <br>
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/f6180eb4-8f13-4fa4-9343-6fc683fae281" width="500" /> <br>
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/f1c38352-b194-48c3-acb6-d439d7c10578" width="500" /> <br>
 
 
 
