@@ -1,25 +1,70 @@
+<?php
 
+
+
+session_start();
+
+
+if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
+
+
+    $user_id = $_SESSION['user_id'];
+
+    $loggedin = true;
+} else {
+    $loggedin = false;
+}
+?>
 
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-    <link rel="icon" href="img/favicon.ico">
-    <link rel="stylesheet" href="style.css">
-    <title>Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <title>Note Master</title>
+
+    <?php require("includes/navBar.php"); ?>
+
+    <div class="container d-flex justify-content-center">
+        <div class=" mt-5  col-8">
+
+            <div class="card">
+                <h5 class="card-header"><span class="material-symbols-outlined"> lock</span>Private Note</h5>
+                <div class="card-body">
+                    <h5 class="card-title">This note is private</h5>
+                    <p class="card-text">Oops! It seems like you've stumbled upon a private note page.
+
+                        If you believe you should have access to this page, make sure you are logged in with the correct
+                        credentials. In case you encounter any issues or need assistance, feel free to contact our
+                        support team.</p>
+                        <br>
+
+                    <a href="/login.php" class="btn btn-primary">Login</a>  
+                    <?php
+
+                    if ($loggedin) {
+                        echo '<a href="/dashboard.php" class="btn btn-outline-success">Dashboard</a>  ';
+                    }
+                    ; ?>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
 </head>
 
 <body>
 
-<?php include("includes/navBar.php")  ?>
+
 
 </body>
 
