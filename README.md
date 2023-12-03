@@ -1,3 +1,5 @@
+<a href="https://cosher-twin.000webhostapp.com/">🔴Live Deployed Link</a> <br>
+
 # Note Master
 
 "Note master" is a comprehensive note-sharing project that leverages a stack of web technologies to provide users with a dynamic and user-friendly platform for collaborative note-taking. Built using HTML, CSS, Bootstrap, PHP, and MySQL, this project combines a sleek and responsive front-end with a robust back-end infrastructure.
