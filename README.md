@@ -17,7 +17,8 @@ Furthermore, the fact that the project has been successfully hosted demonstrates
 
 ![Dashboard](https://github.com/pavandoescode/Note-Master/assets/109412992/a092f489-b385-4453-87a6-ff659d7e90ba)
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/e8f6581a-f07b-4cce-8652-cfb8977ede3e" width="250" /> <br>
-<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/1bcd6044-fe4e-4b21-8dfe-d0730315797b" width="500" /> <br>
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/1a585af8-24f7-43f9-bc27-11b867971bec" width="500" /> <br>
+
 
 
 
