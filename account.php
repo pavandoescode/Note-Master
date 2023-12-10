@@ -161,36 +161,66 @@ if ($wrongPassword) {
     crossorigin="anonymous"></script>
 
 
-     <div class="container mt-4">
-    <div class="card mb-3" >
-  <div class="row g-0">
-   
-    <div class="col-12">
-      <div class="card-body">
-        <h5 class="card-title fw-bold text-uppercase">@<?php echo $row["username"];
-        ; ?></h5>
-
-<span class="card-text"> 
-<label class=" items align-self-center text-start" for="">Email-id: 
-        <?php echo $row["email"];
-        ; ?> 
-      </label><br>
-      <label class="items align-self-center text-start" for="">
-      User Since: <?php echo $row["usersince"];
-        ; ?> 
-      </label> <br>
-      <label class="items align-self-center text-start" for="">
-      Total Notes: <?php echo $Notecount;
-        ; ?> 
-</p>
 
 
-      </div>
+
+
+
+
+    <div class="container ">
+
+
+        <div class="card">
+            <div class="card-body pb-0">
+                <div class="row align-items-center">
+                    <div class="col-md-3">
+                        <div class="text-center border-end"> <img
+                                src="https://bootdey.com/img/Content/avatar/avatar1.png"
+                                class="img-fluid img-fluid rounded-circle" height="180px" width="180px" alt="">
+                            <h4 class=" font-size-20 mt-3 text-uppercase mb-2" >@<?php echo $row["username"];
+        ; ?></h4>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="ms-3">
+                            <div>
+                                <p class="mb-0 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum porro nam delectus explicabo, sunt nesciunt amet? Corrupti doloribus nisi vitae! Autem tempore modi hic quisquam recusandae suscipit voluptate eos consequatur! </p>
+                            </div>
+                            <div class="row my-4">
+                                <div class="col-md-12">
+                                    <div>
+                                        <p class="text-muted mb-2 fw-medium">Email: </i><?php echo $row["email"];
+        ; ?></p>
+                                        <p class="text-muted fw-medium mb-0">User Since: </i><?php echo $row["usersince"];
+        ; ?></p>
+                                        <p class="text-muted fw-medium mb-0">Total Notes: </i> <?php echo $Notecount;
+        ; ?> </p>
+                                    </div>
+                                </div>
+                            </div>
+                    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-</div>
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
 
