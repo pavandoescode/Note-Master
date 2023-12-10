@@ -17,11 +17,20 @@ Furthermore, the fact that the project has been successfully hosted demonstrates
 
 ![Dashboard](https://github.com/pavandoescode/Note-Master/assets/109412992/a092f489-b385-4453-87a6-ff659d7e90ba)
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/e8f6581a-f07b-4cce-8652-cfb8977ede3e" width="250" /> <br>
-<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/f1c38352-b194-48c3-acb6-d439d7c10578" width="500" /> <br>
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/07bbd12b-b60e-437d-a1f3-871c9d93e549" width="500" /> <br>
+
+
+
+
+
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/bc362aa4-c6a5-44c2-bdee-fbb62405c1d5" width="500" /> <br>
 
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/cc03618b-cea3-4715-84f3-a751b6769418" width="500" /> <br>
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/f6180eb4-8f13-4fa4-9343-6fc683fae281" width="500" /> <br>
+
+
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/c6c54a80-64e7-496e-8b6a-c7610290be12" width="500" /> <br>
+
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/14bd9bc4-679e-48e4-a791-8e5ccd19a2dc" width="500" /> <br>
 
 
