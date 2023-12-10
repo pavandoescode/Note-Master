@@ -174,9 +174,9 @@ if ($wrongPassword) {
             <div class="card-body pb-0">
                 <div class="row align-items-center">
                     <div class="col-md-3">
-                        <div class="text-center border-end"> <img
-                                src="https://bootdey.com/img/Content/avatar/avatar1.png"
-                                class="img-fluid img-fluid rounded-circle" height="180px" width="180px" alt="">
+                        <div class="text-center "> <img
+                                src="./img/user_avatar.png"
+                                class="img-fluid img-fluid rounded-circle" height="150px" width="150px" alt="">
                             <h4 class=" font-size-20 mt-3 text-uppercase mb-2" >@<?php echo $row["username"];
         ; ?></h4>
                         </div>
@@ -184,7 +184,7 @@ if ($wrongPassword) {
                     <div class="col-md-9">
                         <div class="ms-3">
                             <div>
-                                <p class="mb-0 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum porro nam delectus explicabo, sunt nesciunt amet? Corrupti doloribus nisi vitae! Autem tempore modi hic quisquam recusandae suscipit voluptate eos consequatur! </p>
+                                <p class="mb-0 text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum porro nam delectus explicabo,  </p>
                             </div>
                             <div class="row my-4">
                                 <div class="col-md-12">
