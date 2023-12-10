@@ -22,6 +22,10 @@ Furthermore, the fact that the project has been successfully hosted demonstrates
 
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/cc03618b-cea3-4715-84f3-a751b6769418" width="500" /> <br>
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/f6180eb4-8f13-4fa4-9343-6fc683fae281" width="500" /> <br>
+
+
+<img src="https://github.com/pavandoescode/Note-Master/assets/109412992/c6c54a80-64e7-496e-8b6a-c7610290be12" width="500" /> <br>
+
 <img src="https://github.com/pavandoescode/Note-Master/assets/109412992/14bd9bc4-679e-48e4-a791-8e5ccd19a2dc" width="500" /> <br>
 
 
