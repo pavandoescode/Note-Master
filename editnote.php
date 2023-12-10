@@ -120,7 +120,7 @@ mysqli_stmt_close($stmt);
     <link rel="stylesheet" href="style.css">
 
   <title>Edit Note</title>
-  <link rel="icon" href="img/favicon.ico">
+  <link rel="icon" href="/img/favicon.ico">
 
 </head>
 

@@ -53,7 +53,7 @@ if ($_SESSION['loggedin'] == true && $_SESSION['username'] != "") {
     $text = $_POST["text"];
 
 
-    if ($password = " "){
+    if ($password = " ") {
 
       $blankError = true;
 
@@ -119,6 +119,7 @@ if ($_SESSION['loggedin'] == true && $_SESSION['username'] != "") {
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
     crossorigin="anonymous"></script>
 
+    <link rel="icon" href="/img/favicon.ico">
 
   <link rel="stylesheet" href="style.css">
 

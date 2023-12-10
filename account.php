@@ -105,6 +105,7 @@ if ($_SESSION['loggedin'] == true && $_SESSION['username'] != "") {
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="img/favicon.ico">
 
   <title>Account</title>
 </head>

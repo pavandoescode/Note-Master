@@ -101,7 +101,8 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
             
                 <link rel="stylesheet"
                     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
-                <title>Note Master</title>';
+    <link rel="icon" href="img/favicon.ico">
+    <title>Note Master</title>';
             
                require("includes/navBar.php"); 
             
@@ -206,7 +207,8 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
             
                 <link rel="stylesheet"
                     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
-                <title>Note Master</title>';
+    <link rel="icon" href="img/favicon.ico">
+    <title>Note Master</title>';
             
                require("includes/navBar.php"); 
             
